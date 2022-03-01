@@ -1,6 +1,7 @@
 # DL-DIY potential project ideas
 - try deit on small datasets cifar-10, cifar-100
 - use deit for semi-supervised learning like in fixmatch project
+- try out recent techniques for token pooling: [Pooling-based Vision Transformer (PiT)](https://github.com/naver-ai/pit), [Expediting Vision Transformers (EViT)](https://github.com/youweiliang/evit)
 
 ----------------------
 
